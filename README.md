@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Débora!
 - 🌱 Sobre Mim :
-Sou apaixonada por tecnologia, desenvolvimento web e estou sempre aprendendo algo novo. Gosto muito de jogos e animes
+Sou apaixonada por tecnologia, desenvolvimento e estou sempre aprendendo algo novo. Gosto muito de jogos e animes
 - 📫 Entre em contato: eng.computdeborafarias@email.com
 - 😄 Pronouns: she/she
 - ⚡ Fun fact: iniciando em programação em desenvolvimento Python e Java 
